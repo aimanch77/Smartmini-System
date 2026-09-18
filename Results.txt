@@ -1,0 +1,7 @@
+minahil,7,7,0
+Ayaan,10,10,0
+salma,2,6,4
+asif,10,10,0
+usman,10,10,0
+alishba,2,6,4
+amna,4,7,3

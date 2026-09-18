@@ -1,0 +1,10 @@
+What is Java?|Programming Language|Car Brand|Food Item|Game|1
+2 + 2 = ?|3|4|5|6|2
+OOP stands for?|Object Oriented Programming|Open Office|Only Output Process|None|1
+HTML is used for?|Web Structure|Cooking|Driving|Music|1
+Which is loop?|for|if|class|int|1
+Which keyword is used to create object in java?|new|class|void|int|1
+Which is a primitive data type in Java?|int|Car|StringBuilder|Scanner|1
+Which symbol is used for single-line comment in Java?|//|/* */|#|--|1
+Which is NOT a Java OOP concept?|Inheritance|Encapsulation|Compilation|Polymorphism|3
+Which method runs first in Java program?|main()|start()|run()|init()|1
